@@ -1,2 +1,7 @@
 Renata 10
 fernando 10
+Beth  8,5
+Renata 10
+Cesar  - 10
+
+
