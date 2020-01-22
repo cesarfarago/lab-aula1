@@ -1,7 +1,19 @@
 Renata 10
 fernando 10
 Beth  8,5
-Renata 10
+Renata 10 11
 Cesar  - 10
+
+
+
+
+
+
+
+
+
+
+
+teste Ok
 
 
