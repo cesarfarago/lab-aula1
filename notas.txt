@@ -1,6 +1,6 @@
 Renata 10
 fernando 10
-Beth  8,5
+Beth  8,5 / 10
 Renata 10
 Cesar  - 10
 
